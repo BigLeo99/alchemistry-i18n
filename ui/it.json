@@ -1,0 +1,57 @@
+{
+  "sandbox": "Sandbox",
+  "challenges": "Sfide",
+  "leaderboard": "Classifica",
+  "settings": "Impostazioni",
+  "credits": "Credits",
+  "quit_game": "Esci dal Gioco",
+
+  "loading": "Caricamento ...",
+
+  "find_us_on": "Ci trovi su ...",
+
+  "sound": "Audio",
+  "music": "Musica",
+  "settings-translations-link": "Participa alla traduzione",
+
+  "developer": "Developer",
+  "designer": "Designer",
+  "project_manager": "Project Manager",
+  "qa_engineer": "QA Engineer",
+  "achievement_manager": "Achievement Manager",
+  "producer": "Produttore",
+  "joke_teller": "Comico",
+  "based_on_an_idea_from": "Basato su un'idea di",
+  "credits_by": "Credits by",
+  "external_contributors": "Contributori esterni",
+  "external_contributors_text": "Grazie a tutti per il loro straordinario lavoro !",
+  "external_contributors_images": "Immagini da:",
+  "external_contributors_music": "Musica & Audio da:",
+  "external_contributors_translations": "Traduzioni da",
+  "special_thanks": "Ringraziamenti particolari",
+
+  "back_to_menu": "Torna al Menu",
+
+  "no_save": "Nessuna Partita Salvata",
+  "new_game": "Nuova Partita",
+
+  "last_played_on": "Ultimo accesso: %date%",
+  "time_played": "Tempo: %time%",
+
+  "leaderboard_error": "Si è verificato un errore durante il caricamento della classifica.",
+  "leaderboard_my_best_time": "Il mio tempo migliore:",
+  "leaderboard_page_title": "Migliori tempi sandbox",
+  "leaderboard_time": "Tempo",
+  "leaderboard_username": "Username",
+
+  "tutorials-merge": "COME: Unire Elementi",
+  "tutorials-spawn": "COME: Generare Elementi",
+
+  "clear": "Svuota la tabella",
+  "delete-tool": "Strumento di eliminazione in blocco",
+  "items-list": "Lista Item",
+  "reorg": "Riorganizza Item",
+
+  "selection-mode-dragndrop": "Trascina e Rilascia",
+  "selection-mode-click": "Click"
+}
