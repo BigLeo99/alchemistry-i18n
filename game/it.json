@@ -1,0 +1,13 @@
+{
+	"element_discovered": "Nuovo Elemento Scoperto: {name}",
+
+	"objective": "Obiettivo",
+
+	"level": "Livello",
+	"challenge-won-msg": "Hai vinto ! Hai scoperto",
+	"next-challenge": "Prossima sfida",
+	"back-to-challenge-list": "Torna all'elenco delle sfide",
+	"restart-game": "Riavvia il gioco",
+	"sandbox-won-title": "Hai vinto !",
+	"sandbox-won-msg": "Ben fatto, hai terminato la modalità sandbox scoprendo tutti gli elementi !"
+}
